@@ -1,13 +1,11 @@
-{
+...
 
-"name": "nodejs-helloworld",
+"description": "Hello World!",
 
-...output omitted...
+"main": "app.js",
 
-"dependencies": {
+"scripts": { "start": "node app.js" },
 
-"express": "4.14.x"
+"author": "Red Hat Training",
 
-}
-
-}
+...
